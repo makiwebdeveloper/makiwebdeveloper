@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Illia Makovetsky</h1>
 <h3 align="center">A passionate web developer from Ukraine who loves to bring cool and crazy ideas to life</h3>
 
-- 🔭 I’m currently working on [Soundy](https://soundy-music.vercel.app)
-
-- 💬 Ask me about **HTML/CSS, React.js, Next.js, Node.js and Golang**
-
 - 📫 How to reach me **makiwebdeveloper@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
