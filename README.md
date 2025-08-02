@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Illia Makovetsky</h1>
 <h3 align="center">A passionate web developer from Ukraine who loves to bring cool and crazy ideas to life</h3>
 
+- My personal website: **<a href="https://makiwebdeveloper.vercel.app/" target="blank">makiwebdeveloper</a>**
 - 📫 How to reach me **makiwebdeveloper@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
